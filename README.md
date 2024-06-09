@@ -6,10 +6,12 @@ ASSIGNMENT 2
 
 hassanharohuka@gmail.com
 
-1.	Software engineering is a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software. It encompasses the use of engineering principles and practices to ensure software is reliable, efficient, maintainable, and meets user requirements
+# 1
+Software engineering is a systematic, disciplined, and quantifiable approach to the design, development, operation, and maintenance of software. It encompasses the use of engineering principles and practices to ensure software is reliable, efficient, maintainable, and meets user requirements
 Software engineering is building software the right way. It's a systematic approach with a focus on the entire software lifecycle, from design to maintenance. Traditional programming is more about writing code to solve a specific problem, often without a defined process. Think of software engineering as a well-planned recipe, while traditional programming might be like improvising in the kitchen.
 
-2.	The Software Development Life Cycle (SDLC) is a structured framework that defines the process of creating high-quality software. It involves a series of phases, each with specific goals and deliverables.
+# 2
+The Software Development Life Cycle (SDLC) is a structured framework that defines the process of creating high-quality software. It involves a series of phases, each with specific goals and deliverables.
 
 • Planning and Requirement Analysis: This is the foundation stage. The team gathers requirements to understand the purpose and functionalities of the software. This involves activities like:
 •	Defining project goals and objectives.
